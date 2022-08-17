@@ -9,5 +9,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neatoro/email-cleanup.git"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "imapflow": "^1.0.101",
+    "inquirer": "^9.1.0",
+    "pino": "^8.4.1"
   }
 }
