@@ -1,0 +1,13 @@
+{
+  "name": "email-cleanup",
+  "version": "1.0.0",
+  "description": "A small tool to cleanup my mails",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neatoro/email-cleanup.git"
+  }
+}
